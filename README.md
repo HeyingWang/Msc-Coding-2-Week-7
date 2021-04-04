@@ -14,7 +14,7 @@ CCI-CC-S2-In-class exercise by Heying Wang
  
 
 ## Design Process
-   Import and configure modules->Visualize the input->**trying Fast Style Transfer using TF-Hub ** ->
+   Import and configure modules->Visualize the input-> **trying Fast Style Transfer using TF-Hub** ->
 
 ## Further improvement
 
