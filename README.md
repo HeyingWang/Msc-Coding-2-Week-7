@@ -8,7 +8,7 @@ CCI-CC-S2-In-class exercise by Heying Wang
 
 ## Technology used for implementation
 
- ##### Neural style transfer
+ ### Neural style transfer
   
   This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
  
