@@ -9,7 +9,7 @@ CCI-CC-S2-In-class exercise by Heying Wang
 ## Technology used for implementation
 
  ### Neural style transfer
-     -This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
+    This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
  
 
 ## Design Process
@@ -28,8 +28,8 @@ CCI-CC-S2-In-class exercise by Heying Wang
   
 
 ## References
-   -content image:https://jasminewhy.files.wordpress.com/2021/04/leon-contreras-va5ohgk8hke-unsplash.jpg
-   -style image: https://upload.wikimedia.org/wikipedia/commons/1/15/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%28National_Gallery_version%29.jpg
+    • content image: https://jasminewhy.files.wordpress.com/2021/04/leon-contreras-va5ohgk8hke-unsplash.jpg
+    • style image: https://upload.wikimedia.org/wikipedia/commons/1/15/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_%28National_Gallery_version%29.jpg
 
 ## Related link
  • Learning Resource https://www.tensorflow.org/tutorials/generative/style_transfer
